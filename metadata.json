@@ -1,0 +1,6 @@
+{
+  "name": "DompetKu - Kelola Keuangan Pribadi",
+  "description": "Aplikasi pengelolaan keuangan pribadi, pencatatan pemasukan, pengeluaran, anggaran kategori, analisis grafik, dan investasi emas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
